@@ -19,3 +19,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chloeunterwegs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloeunterwegs&layout=compact&langs_count=7&theme=radical"/>
 </div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chloeunterwegs&theme=dracula)
