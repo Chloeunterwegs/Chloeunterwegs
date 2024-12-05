@@ -18,9 +18,6 @@ This is Chloe,
   - How to reach me: unterwegshe@gmail.com
  
 ---
-
-***
-
 ___
 
 <div>
