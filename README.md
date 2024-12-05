@@ -1,24 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Chloeunterwegs/Chloeunterwegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 我目前正在做的工作是：数字创作者，初级产品经理
+  - I'm currently working on: Digital Creator, Junior Product Manager
 
-Here are some ideas to get you started:
+- 🌱 我目前在学习和研究的是：全栈开发 / 融合少数民族文化的AI产品
+  - I'm currently learning: Full Stack Development / AI Products Integrating Minority Cultures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 我希望能合作：在产品观上契合的技术人士、营销创意人士
+  - I'm looking to collaborate with: Technologists and marketing creatives with aligned product vision
+
+- 💬 欢迎问我关于任何事情的问题
+  - Ask me about: Anything
+
+- 📫 如何联系我：unterwegshe@gmail.com
+  - How to reach me: unterwegshe@gmail.com
+
+- 😄 我的代词是：她/她的
+  - Pronouns: She/Her
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chloeunterwegs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloeunterwegs&layout=compact&langs_count=7&theme=dark"/>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chloeunterwegs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
