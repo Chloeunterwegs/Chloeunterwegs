@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Chloe, from China.
+This is Chloe,
 
 - 🔭 我目前正在做的工作是：数字创作者，初级产品经理
   - I'm currently working on: Digital Creator, Junior Product Manager
@@ -16,9 +16,6 @@ This is Chloe, from China.
 
 - 📫 如何联系我：unterwegshe@gmail.com
   - How to reach me: unterwegshe@gmail.com
-
-- 😄 我的代词是：她/她的
-  - Pronouns: She/Her
  
 ---
 
