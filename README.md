@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is Chloe, from China.
+
 - 🔭 我目前正在做的工作是：数字创作者，初级产品经理
   - I'm currently working on: Digital Creator, Junior Product Manager
 
