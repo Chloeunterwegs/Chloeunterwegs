@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  ![](https://komarev.com/ghpvc/?username=Chloeunterwegs&color=green)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chloeunterwegs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloeunterwegs&layout=compact&langs_count=7&theme=dark"/>
+  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chloeunterwegs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
