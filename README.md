@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chloeunterwegs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloeunterwegs&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chloeunterwegs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chloeunterwegs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chloeunterwegs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
