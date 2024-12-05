@@ -6,7 +6,7 @@ This is Chloe, from China.
   - I'm currently working on: Digital Creator, Junior Product Manager
 
 - 🌱 我目前在学习和研究的是：全栈开发 / 融合少数民族文化的AI产品
-  - I'm currently learning: Full Stack Development / AI Products Integrating Minority Cultures
+  - I'm currently learning: Full Stack Development / AI Products Integrating Chinese Ethnic Minorities' Culture
 
 - 👯 我希望能合作：在产品观上契合的技术人士、营销创意人士
   - I'm looking to collaborate with: Technologists and marketing creatives with aligned product vision
@@ -20,8 +20,11 @@ This is Chloe, from China.
 - 😄 我的代词是：她/她的
   - Pronouns: She/Her
  
+---
 
-  
+***
+
+___
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chloeunterwegs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
